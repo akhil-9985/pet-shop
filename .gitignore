@@ -1,0 +1,6 @@
+shop/__pycache__
+shop/templatetags/__pycache__
+petshop_project/__pycache__
+shop/migrations/__pycache__
+venv
+db.sqlite3
