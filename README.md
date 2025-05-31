@@ -46,6 +46,10 @@ cd Scripts
 # Install Requirements
 pip install -r requirements.txt
 
+# Make necessary Migrations
+python manage.py makemigrations
+python manage.py migrate
+
 # Create admin as superuser
 python manage.py createsuperuser
 
@@ -56,10 +60,6 @@ Email address: test@gmail.com
 Password: 
 Password (again): 
 Superuser created successfully.
-
-# Make necessary Migrations
-python manage.py makemigrations
-python manage.py migrate
 ```
 
 **_Routes_**
