@@ -16,6 +16,9 @@
 - Admin dashboard
 - Responsive design and  email notifications
 
+## Documentation
+- Projects Docs in pdf format - [here](/pet%20project%20documention.pdf)
+
 ## Demo Images
 ![pet_shop7](https://github.com/user-attachments/assets/f417e026-e206-49e4-9413-b1b59f2432bd)
 ![pet_shop6](https://github.com/user-attachments/assets/ce3cdf5b-2699-4dac-8b5f-99abf4d79260)
